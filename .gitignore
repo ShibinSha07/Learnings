@@ -1,2 +1,4 @@
 env
 __pycache__ 
+cleaned_dataset
+archive.zip
